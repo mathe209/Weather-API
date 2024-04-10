@@ -1,9 +1,13 @@
 ##INSTALLATION
 
 To use this program, install Python on your system. You can download and install Python from the official Python website.
+
 Once Python is installed, you can clone this repository using the following command:
+
   (git clone https://github.com/mathe209/Weather-API.git)
+  
 Install the required dependencies using pip:
+
   pip install -r requirements.txt
 
 ##Usage
