@@ -6,6 +6,7 @@ Install the required dependencies using pip:
   pip install -r requirements.txt
 
 ##Usage
+
 To use the program, follow these steps:
 1. Open a terminal or command prompt.
 2. Navigate to the directory where you cloned the repository.
